@@ -83,8 +83,6 @@ const Home = () =>{
 
   return(
     <View style={{flex:1}}>
-       <Text style={{alignItems:"center",justifyContent:"center",
-      }}>jgjg</Text>
       <View style={Styles.formContainer}>
         <TextInput
         style={Styles.input}
